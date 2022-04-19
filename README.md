@@ -1,0 +1,2 @@
+# Predicting-Smart-Grid-Stability---Deep-Learning-Analytics-ANN-
+The structure of the DSGC system is based on a 4-node star architecture which includes one power source and three consumption nodes. The inputs/features are the total power balance, the reaction time of the consumers to the price changes, and the energy price elasticity. We predict the stability of smart grids based on the Artificial Neural Network (ANN) models and compute accuracies based on different structures and hyperparameters.
